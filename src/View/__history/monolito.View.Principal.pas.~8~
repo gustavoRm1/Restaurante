@@ -1,0 +1,48 @@
+unit monolito.View.Principal;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.Menus;
+
+type
+  Tfrmprincipal = class(TForm)
+    MainMenu1: TMainMenu;
+    mnuMesas: TMenuItem;
+    mnuAjuda: TMenuItem;
+    menuMesas: TMenuItem;
+    procedure menuMesasClick(Sender: TObject);
+    procedure FormCreate(Sender: TObject);
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  frmprincipal: Tfrmprincipal;
+
+implementation
+
+uses
+  monolito.View.Mesas, monolito.View.Splash;
+
+{$R *.dfm}
+
+procedure Tfrmprincipal.FormCreate(Sender: TObject);
+begin
+ formSplash  := formSplash.Create(nil);
+ try
+   formSplash.ShowModal;
+ finally
+   FreeAndNil(formSplash);
+ end;
+end;
+
+procedure Tfrmprincipal.menuMesasClick(Sender: TObject);
+begin
+          formMesas.Show;
+end;
+
+end.

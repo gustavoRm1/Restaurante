@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/05/05 09:21:50.000.599,=C:\Users\Instituto\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2023/05/05 09:23:43.000.220,C:\Users\Instituto\Documents\Embarcadero\Studio\Projects\Restaurante\src\View\monolito.View.Principal.dfm=C:\Users\Instituto\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2023/05/05 09:23:43.000.220,C:\Users\Instituto\Documents\Embarcadero\Studio\Projects\Restaurante\src\View\monolito.View.Principal.pas=C:\Users\Instituto\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2023/05/05 09:24:02.000.639,C:\Users\Instituto\Documents\Embarcadero\Studio\Projects\Restaurante\src\View\Monolito.dproj=C:\Users\Instituto\Documents\Embarcadero\Studio\Projects\Project2.dproj</Transaction>
+    <Transaction>2023/05/05 09:37:24.000.191,=C:\Users\Instituto\Documents\Embarcadero\Studio\Projects\Restaurante\src\View\Unit1.pas</Transaction>
+    <Transaction>2023/05/05 09:37:56.000.071,C:\Users\Instituto\Documents\Embarcadero\Studio\Projects\Restaurante\src\View\monolito.View.Mesas.pas=C:\Users\Instituto\Documents\Embarcadero\Studio\Projects\Restaurante\src\View\Unit1.pas</Transaction>
+    <Transaction>2023/05/05 09:37:56.000.071,C:\Users\Instituto\Documents\Embarcadero\Studio\Projects\Restaurante\src\View\monolito.View.Mesas.dfm=C:\Users\Instituto\Documents\Embarcadero\Studio\Projects\Restaurante\src\View\Unit1.dfm</Transaction>
+    <Transaction>2023/05/05 13:46:13.000.951,=C:\Users\Instituto\Documents\Embarcadero\Studio\Projects\Restaurante\src\View\Unit1.pas</Transaction>
+    <Transaction>2023/05/05 13:46:47.000.856,C:\Users\Instituto\Documents\Embarcadero\Studio\Projects\Restaurante\src\View\monolito.View.Splash.dfm=C:\Users\Instituto\Documents\Embarcadero\Studio\Projects\Restaurante\src\View\Unit1.dfm</Transaction>
+    <Transaction>2023/05/05 13:46:47.000.856,C:\Users\Instituto\Documents\Embarcadero\Studio\Projects\Restaurante\src\View\monolito.View.Splash.pas=C:\Users\Instituto\Documents\Embarcadero\Studio\Projects\Restaurante\src\View\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
